@@ -41,7 +41,7 @@ My background spans **Product Strategy, UI/UX, and Growth** across India and Dub
 | [**Critique Genius**](https://v0-critique-genius.vercel.app/) | AI-powered feedback tool for creative and professional work | v0.dev · Vercel |
 | [**AI Learning Platform**](https://ishtyaqk.github.io/portfolio/) | Personalized AI-driven learning platform concept | Vertex AI · GCP |
 | [**RK Glass & Hardware**](https://rk-glass.vercel.app/) | Premium B2B brand site targeting architects & contractors in Kerala | Next.js · Vercel |
-| **Telegram GST Invoicer** *(WIP)* | Zero cost GST invoice automation for Indian micro businesses via Telegram | Google Cloud API · Make.com · n8n |
+| **Telegram GST Invoicer** | Zero cost GST invoice automation for Indian micro businesses via Telegram | Google Cloud API · Make.com · n8n |
 
 ---
 
