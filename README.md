@@ -29,7 +29,7 @@ My background spans **Product Strategy, UI/UX, and Growth** across India and Dub
 - **LLM Applications** — Prompt engineering, RAG pipelines, agentic workflows using LangChain / LangGraph
 - **Cloud AI Deployment** — AWS, Azure AI Foundry, GCP Vertex AI
 - **Agentic Systems** — Multi step, tool using AI agents; multi-agent orchestration
-- **No-Code / Automation** — Make.com, n8n, Meta Cloud API for production workflows
+- **No-Code / Automation** — Make.com, n8n, Google Cloud API for production workflows
 - **Product & GTM** — PRDs, roadmaps, GTM strategy for Cloud, AI, and SaaS products
 
 ---
@@ -41,7 +41,7 @@ My background spans **Product Strategy, UI/UX, and Growth** across India and Dub
 | [**Critique Genius**](https://v0-critique-genius.vercel.app/) | AI-powered feedback tool for creative and professional work | v0.dev · Vercel |
 | [**AI Learning Platform**](https://ishtyaqk.github.io/portfolio/) | Personalized AI-driven learning platform concept | Vertex AI · GCP |
 | [**RK Glass & Hardware**](https://rk-glass.vercel.app/) | Premium B2B brand site targeting architects & contractors in Kerala | Next.js · Vercel |
-| **WhatsApp GST Invoicer** *(WIP)* | Zero cost GST invoice automation for Indian micro businesses via WhatsApp | Meta Cloud API · Make.com |
+| **Telegram GST Invoicer** *(WIP)* | Zero cost GST invoice automation for Indian micro businesses via Telegram | Google Cloud API · Make.com · n8n |
 
 ---
 
@@ -57,7 +57,7 @@ My background spans **Product Strategy, UI/UX, and Growth** across India and Dub
 `AWS` · `Azure` · `GCP` · `Vercel` · `Docker (basics)`
 
 **Automation & Build**
-`Make.com` · `n8n` · `Meta Cloud API` · `Bolt.new` · `Figma`
+`Make.com` · `n8n` · `Google Cloud API` · `Bolt.new` · `Figma`
 
 ---
 
