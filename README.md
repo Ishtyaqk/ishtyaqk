@@ -10,9 +10,9 @@
 
 ### 👤 About Me
 
-I build AI-powered products that connect LLMs to real business problems — from RAG pipelines and agentic workflows to cloud-deployed automation tools.
+I build AI powered products that connect LLMs to real business problems from RAG pipelines and agentic workflows to cloud-deployed automation tools.
 
-My background spans **Product Strategy, UI/UX, and Growth** across India and Dubai. Now I'm going deep on **GenAI, LLM applications, and cloud AI** — shipping things that go beyond notebooks and proofs of concept.
+My background spans **Product Strategy, UI/UX, and Growth** across India and Dubai. Now I'm going deep on **GenAI, LLM applications, and cloud AI** shipping things that go beyond notebooks and proofs of concept.
 
 - 🏢 Business Development Intern @ **Mirai Labs**, Bangalore (Cloud & AI GTM)
 - 🤖 Completed **GenAI program with AcceleratorX**
@@ -28,7 +28,7 @@ My background spans **Product Strategy, UI/UX, and Growth** across India and Dub
 
 - **LLM Applications** — Prompt engineering, RAG pipelines, agentic workflows using LangChain / LangGraph
 - **Cloud AI Deployment** — AWS, Azure AI Foundry, GCP Vertex AI
-- **Agentic Systems** — Multi-step, tool-using AI agents; multi-agent orchestration
+- **Agentic Systems** — Multi step, tool using AI agents; multi-agent orchestration
 - **No-Code / Automation** — Make.com, n8n, Meta Cloud API for production workflows
 - **Product & GTM** — PRDs, roadmaps, GTM strategy for Cloud, AI, and SaaS products
 
@@ -41,7 +41,7 @@ My background spans **Product Strategy, UI/UX, and Growth** across India and Dub
 | [**Critique Genius**](https://v0-critique-genius.vercel.app/) | AI-powered feedback tool for creative and professional work | v0.dev · Vercel |
 | [**AI Learning Platform**](https://ishtyaqk.github.io/portfolio/) | Personalized AI-driven learning platform concept | Vertex AI · GCP |
 | [**RK Glass & Hardware**](https://rk-glass.vercel.app/) | Premium B2B brand site targeting architects & contractors in Kerala | Next.js · Vercel |
-| **WhatsApp GST Invoicer** *(WIP)* | Zero-cost GST invoice automation for Indian micro-businesses via WhatsApp | Meta Cloud API · Make.com |
+| **WhatsApp GST Invoicer** *(WIP)* | Zero cost GST invoice automation for Indian micro businesses via WhatsApp | Meta Cloud API · Make.com |
 
 ---
 
